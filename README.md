@@ -19,7 +19,7 @@ The objective of this project is to understand **booking trends, cancellations, 
   Contains database routines (if any) generated during export.
 
 ### 🔹 Power BI File
-- **`https://github.com/kushalgupta15/Uber-Sales-Analysis-using-Power-BI-and-MySQL-/blob/main/Uber%20Project%20Kushal.pbix` file**  
+- **` https://github.com/kushalgupta15/Uber-Sales-Analysis-using-Power-BI-and-MySQL-/blob/main/Uber%20Project%20Kushal.pbix ` file**  
   Power BI dashboard file containing:
   - Data model
   - DAX measures
@@ -47,7 +47,7 @@ The objective of this project is to understand **booking trends, cancellations, 
 ## ▶️ How to Use This Project
 1. Import the `.sql` files into MySQL using **MySQL Workbench**
 2. (Optional) Use the CSV file as an alternative data source
-3. Open the `https://github.com/kushalgupta15/Uber-Sales-Analysis-using-Power-BI-and-MySQL-/blob/main/Uber%20Project%20Kushal.pbix` file in **Power BI Desktop**
+3. Open the ` https://github.com/kushalgupta15/Uber-Sales-Analysis-using-Power-BI-and-MySQL-/blob/main/Uber%20Project%20Kushal.pbix ` file in **Power BI Desktop**
 4. Refresh data connection if required
 5. Explore dashboards and insights
 
