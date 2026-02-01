@@ -17,6 +17,8 @@ The objective of this project is to understand **booking trends, cancellations, 
   Contains the **table schema and booking-level data** exported from MySQL Workbench.
 - `uber_routines.sql`  
   Contains database routines (if any) generated during export.
+- `uber_uberscripts.sql`  
+  Contains the excecution of view with questions from MySQL Workbench.
 
 ### 🔹 Power BI File
 - **` https://github.com/kushalgupta15/Uber-Sales-Analysis-using-Power-BI-and-MySQL-/blob/main/Uber%20Project%20Kushal.pbix ` file**  
